@@ -1,4 +1,7 @@
-Google Cardboard
-================
+Google VR SDK
+=====================
+Copyright (c) 2017 Google Inc.  All rights reserved.
 
-Please see <http://g.co/cardboard> for more information.
+[https://developers.google.com/vr/android/get-started](https://developers.google.com/vr/android/get-started)
+
+Please note, we do not accept pull requests.
